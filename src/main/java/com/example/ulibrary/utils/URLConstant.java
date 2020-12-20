@@ -1,8 +1,8 @@
 package com.example.ulibrary.utils;
 
 public class URLConstant {
-    String URLBASE = "http://cdwan.cn:7000/exam2003/";
-    String BAN = "anewslist.json";
-    String ANEWS = "anewslist.json";
-    String STUDENT = "anewslist.json";
+    public static String URLBASE = "http://cdwan.cn:7000/exam2003/";
+    public static String BAN = "anewslist.json";
+    public static String ANEWS = "anewslist.json";
+    public static String STUDENT = "anewslist.json";
 }
